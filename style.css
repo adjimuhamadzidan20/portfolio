@@ -487,6 +487,7 @@ footer .wrapper .section ul li img {
         list-style-type: none;
         padding: 12px 25px;
         /* background-color: grey; */
+        text-align: left;
     }
 
     .nav-list-mobile ul li:hover {
